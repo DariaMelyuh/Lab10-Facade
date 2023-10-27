@@ -1,6 +1,6 @@
 ﻿namespace Lab_10_Facade
 {
-    class Facade
+    public class Facade
     {
         private TV tv;
         private Audio audio;

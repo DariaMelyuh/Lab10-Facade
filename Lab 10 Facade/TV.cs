@@ -1,6 +1,6 @@
 ﻿namespace Lab_10_Facade
 {
-    class TV
+    public class TV
     {
         public void On()
         {

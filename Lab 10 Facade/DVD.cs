@@ -1,6 +1,6 @@
 ﻿namespace Lab_10_Facade
 {
-    class DVD
+    public class DVD
     {
         public void In()
         {

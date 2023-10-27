@@ -1,6 +1,6 @@
 ﻿namespace Lab_10_Facade
 {
-    class Audio
+    public class Audio
     {
         public void On()
         {
